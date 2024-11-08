@@ -87,10 +87,7 @@ def resume_view(request):
                 'title': 'Top Scorer in IPE',
                 'description': 'Ranked among the top 5% in the IPE exams in 2023.'
             },
-            {
-                'title': 'Best Project Award',
-                'description': 'Awarded the best project for the "Lifestyle Routine Maker Website" at college tech fair.'
-            }
+            
         ],
         'interests': [
             'Machine Learning', 
